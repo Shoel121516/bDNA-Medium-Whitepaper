@@ -14,10 +14,3 @@ This document is published for defensive prior art purposes to establish public 
 License: CC0 1.0 (Public Domain Dedication) or Apache 2.0 (depending on repo setting).
 
 Contact: Shoel Lowy lowysy@outlook.com
-## Versions
-
-- **v2 (March 2026)**: Added Post-Quantum Cryptographic Upgrades section  
-  (hash-based signatures, STARK proofs, quantum-resistant schemes, recursive aggregation)  
-  Download: [bDNA-Medium-Whitepaper-v2.pdf](bDNA-Medium-Whitepaper-v2.pdf)
-
-- **v1 (February 2026)**: Original publication
