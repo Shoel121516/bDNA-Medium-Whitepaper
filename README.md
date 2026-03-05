@@ -14,7 +14,6 @@ This document is published for defensive prior art purposes to establish public 
 License: CC0 1.0 (Public Domain Dedication) or Apache 2.0 (depending on repo setting).
 
 Contact: Shoel Lowy lowysy@outlook.com
-
 ## Versions
 
 - **v2 (March 2026)**: Added Post-Quantum Cryptographic Upgrades section  
