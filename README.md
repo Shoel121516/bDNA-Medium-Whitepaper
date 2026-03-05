@@ -18,6 +18,6 @@ Contact: Shoel Lowy lowysy@outlook.com
 
 - **v2 (March 2026)**: Added Post-Quantum Cryptographic Upgrades section  
   (hash-based signatures, STARK proofs, quantum-resistant schemes, recursive aggregation)  
-  Download: [bDNA-Medium-Whitepaper-v2.pdf](bDNA-Medium-Whitepaper-v2.pdf)
+  Download:https://github.com/Shoel121516/bDNA-Medium-Whitepaper/blob/e891b0ead329ee79d30f9201a455376c915c7b97/bDNA-Medium-Whitepaper-v2.pdf.pdf
 
 - **v1 (February 2026)**: Original publication
